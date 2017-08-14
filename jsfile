@@ -1,0 +1,7 @@
+////some javascript code 
+
+function dosomething() {
+    ///does something
+  }
+
+dosomething();
